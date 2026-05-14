@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c86f7fb3ea5bac04a857e5f4a0b30077, type: 3}
+  m_Name: f_red_top_hider
+  m_EditorClassIdentifier: 
+  _asset: {fileID: 0}
+  _assetSlotName: FemaleTorso
+  _serializedFlags:
+  - flags: 00000000000000c0070e0010ffdfffffcd2f78009c0603c000c0c21fb0ffffe1733a203830000ffc01c00720964ee0ffcfec000c00c00100fcef0300800ffcffffffff3f0b80037f110e00807300004083000000000000001820040800007ca6d180c53ffc5ffccfc7ff0f0000000000000000000000000000000000000000c07fbf000000000000000000000000000000000000000000000000000000000000c01f010000000000000000000000000000000000000000000000000000000000003c80ff8187c70000068003
+    Count: 1628
